@@ -19,7 +19,7 @@
   
   <a href="https://app.daily.dev/nimble">
     <img 
-      src="https://api.daily.dev/devcards/c756e1b6302f4720972271164294ef62.png?r=zl0"
+      src="https://raw.githubusercontent.com/nimble-123/nimble-123/devcard/devcard.svg"
       width="256"
       align="right"
       alt="nimble's Dev Card"
@@ -28,9 +28,6 @@
 </div>
 
 <br />
-
-
-
 
 ## I am Nils
 
