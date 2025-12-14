@@ -20,10 +20,6 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "chore: update `${filename}`"
-
           # Options
           user: nimble-123
           template: classic
