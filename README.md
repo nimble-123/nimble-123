@@ -16,15 +16,11 @@
   <a href="https://github.com/nimble-123">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nimble-123?logo=github&style=flat-square&color=1da1f2&logoColor=ffffff">
   </a>
-  
+
   <a href="https://app.daily.dev/nimble">
-    <img 
-      src="https://raw.githubusercontent.com/nimble-123/nimble-123/devcard/devcard.svg"
-      width="256"
-      align="right"
-      alt="nimble's Dev Card"
-     />
+    <img src="https://api.daily.dev/devcards/v2/Li8i0l5QdofJBsriuTdLu.png?type=default&r=41q" width="356" alt="nimble's Dev Card"/>
   </a>
+
 </div>
 
 <br />
