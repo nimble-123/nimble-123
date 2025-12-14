@@ -18,7 +18,12 @@
   </a>
 
   <a href="https://app.daily.dev/nimble">
-    <img src="https://api.daily.dev/devcards/v2/Li8i0l5QdofJBsriuTdLu.png?type=default&r=41q" width="356" alt="nimble's Dev Card"/>
+    <img 
+      src="https://raw.githubusercontent.com/nimble-123/nimble-123/refs/heads/main/devcard.png"
+      width="256"
+      align="right"
+      alt="nimble's Dev Card"
+     />
   </a>
 
 </div>
@@ -93,4 +98,4 @@
 
 ## Some Github metrics
 
-![Metrics](https://raw.githubusercontent.com/nimble-123/nimble-123/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/nimble-123/nimble-123/refs/heads/main/github-metrics.svg)
